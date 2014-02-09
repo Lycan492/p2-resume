@@ -1,0 +1,20 @@
+body {
+	background: url(../img/sandpaper.png);
+	font-family: arial; /*use google font here*/
+}
+h1{
+	color: #1180aa;
+	font-family: 'Amarante';
+}
+
+
+
+img{
+		border: 4px solid #1180aa;
+}
+
+div p{
+	border: 4px solid #1180aa;
+	margin: 0 0 20px 0;
+	padding: 5px 0 0 8px;
+}
